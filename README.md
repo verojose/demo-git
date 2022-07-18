@@ -10,3 +10,15 @@ Dans votre dossier lancez la commande:
 ```sh
 git init 
 ````
+
+## Créaer un commit
+Pour ajouter les modifications d'un fichier à votre commit:
+
+```sh
+git add <nom de votre fichier>
+````
+
+Pour sauvergarder le comit
+```sh
+git commit -m "message"
+````
